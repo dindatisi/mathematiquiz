@@ -1,7 +1,7 @@
 # mathematiquiz
 Simple 2-player mathematics battle using Arduino.
 
-This was my final project in II3231 Human-Computer Interface Interaction class in Bandung Institute of Technology. I have previously made the code available (here)[https://dindatc.wordpress.com/2014/05/12/ii3231-final-project-mathematiquiz/]. The code comments were written in Bahasa.
+This was my final project in II3231 Human-Computer Interface Interaction class in Bandung Institute of Technology. I have previously made the code available [here](https://dindatc.wordpress.com/2014/05/12/ii3231-final-project-mathematiquiz/). The code comments were written in Bahasa.
 
 ## Installation
 ### One Player Game
